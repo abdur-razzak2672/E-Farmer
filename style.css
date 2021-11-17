@@ -1,0 +1,50 @@
+header{
+	height: 100%;
+}
+.farmer-header{
+	background-image: url('images/bg.jfif');
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.home-text{
+	color: white; 
+}
+.nav_item a{
+	font-size: 30px;
+}
+.nav_item ul li a{
+	font-size: 20px;
+}
+.card_image img{
+	width: 25%;
+	text-align: center;
+	margin-left: 35%;
+	margin-top: 20px;
+}
+
+
+.details input{
+	height: 70px;
+}
+ 
+.button button{
+	margin: 20px 0 20px 0;
+    border: 2px solid crimson;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+ .button button:hover{
+
+   color: crimson; 
+   background: none;
+}
+
